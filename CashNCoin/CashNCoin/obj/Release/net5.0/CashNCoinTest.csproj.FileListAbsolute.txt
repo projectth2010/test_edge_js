@@ -1,0 +1,16 @@
+D:\code_in_gits\CashNCoin\CashNCoin\bin\Release\net5.0\PcioCashNCoin.dll
+D:\code_in_gits\CashNCoin\CashNCoin\bin\Release\net5.0\PcioCashNCoin.pdb
+D:\code_in_gits\CashNCoin\CashNCoin\bin\Release\net5.0\CashNCoinTest.deps.json
+D:\code_in_gits\CashNCoin\CashNCoin\bin\Release\net5.0\CashNCoinTest.dll
+D:\code_in_gits\CashNCoin\CashNCoin\bin\Release\net5.0\CashNCoinTest.pdb
+D:\code_in_gits\CashNCoin\CashNCoin\bin\Release\net5.0\NMD100.dll
+D:\code_in_gits\CashNCoin\CashNCoin\obj\Release\net5.0\CashNCoinTest.csproj.AssemblyReference.cache
+D:\code_in_gits\CashNCoin\CashNCoin\obj\Release\net5.0\CashNCoinTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\code_in_gits\CashNCoin\CashNCoin\obj\Release\net5.0\CashNCoinTest.AssemblyInfoInputs.cache
+D:\code_in_gits\CashNCoin\CashNCoin\obj\Release\net5.0\CashNCoinTest.AssemblyInfo.cs
+D:\code_in_gits\CashNCoin\CashNCoin\obj\Release\net5.0\CashNCoinTest.csproj.CoreCompileInputs.cache
+D:\code_in_gits\CashNCoin\CashNCoin\obj\Release\net5.0\CashNCoi.3A0BF3A8.Up2Date
+D:\code_in_gits\CashNCoin\CashNCoin\obj\Release\net5.0\CashNCoinTest.dll
+D:\code_in_gits\CashNCoin\CashNCoin\obj\Release\net5.0\refint\CashNCoinTest.dll
+D:\code_in_gits\CashNCoin\CashNCoin\obj\Release\net5.0\CashNCoinTest.pdb
+D:\code_in_gits\CashNCoin\CashNCoin\obj\Release\net5.0\ref\CashNCoinTest.dll

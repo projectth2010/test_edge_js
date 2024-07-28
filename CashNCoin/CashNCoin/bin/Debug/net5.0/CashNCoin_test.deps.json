@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CashNCoin_test/1.0.0": {
+        "dependencies": {
+          "NMD100": "1.0.0.0",
+          "PcioCashNCoin": "1.0.2.0"
+        },
+        "runtime": {
+          "CashNCoin_test.dll": {}
+        }
+      },
+      "NMD100/1.0.0.0": {
+        "runtime": {
+          "NMD100.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PcioCashNCoin/1.0.2.0": {
+        "runtime": {
+          "PcioCashNCoin.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CashNCoin_test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NMD100/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PcioCashNCoin/1.0.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
